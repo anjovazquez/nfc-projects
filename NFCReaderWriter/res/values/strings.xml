@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCReaderWriter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Bienvenido al lector/escritor NFC!</string>
+    <string name="bWrite">Escribir</string>
+    <string name="textInfo">Aproximese a la tarjeta para su escritura</string>
+    <string name="written_tag">Se ha escrito correctamente!</string>
+    <string name="hint_text">Hola NFC!!!!</string>
+    <string name="hint_URI">http://www.fic.udc.es</string>
+    <string name="techs">Tag Info</string>
+    <string name="message">Mensaje</string>
+</resources>
