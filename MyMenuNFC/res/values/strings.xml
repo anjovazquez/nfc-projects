@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMenuNFC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_send_order">Enviar</string>
+    <string name="send_data">Se va a realizar un pedido por valor de s</string>
+    <string name="wellcome">Bienvenido!! \n Escanee su pedido en nuestra carta</string>
+
+</resources>
